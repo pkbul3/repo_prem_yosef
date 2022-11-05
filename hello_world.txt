@@ -19,3 +19,5 @@ Nulla consequat massa quis enim.
 Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
 
 CHANGES
+
+making changes ffor the git ex 4, part 1, q6
